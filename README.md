@@ -23,6 +23,5 @@ This CSS package is designed to facilitate print styling for web content, ensuri
    * Specific styles for printing, including page background and margins, with box-shadow settings for screen display.
    * Classes for different page sizes (A4, A3, A5) and their landscape orientations.
    * Media queries to adjust styles specifically for print, ensuring a clean print output without screen-specific styles.
-   * `.page-break` class to enforce page breaks where necessary during printing.
 
 This CSS package is ideal for developers needing to create print-ready web pages with precise control over layout, spacing, typography, and print-specific configurations.
